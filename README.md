@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Video</h2>
 Work in Progress
-<p>[osTicket Installation](https://youtu.be/4OM8-EwctY4)</p>
+
+[osTicket Installation](https://youtu.be/4OM8-EwctY4)
 
 <h2>Installation Steps</h2>
 
